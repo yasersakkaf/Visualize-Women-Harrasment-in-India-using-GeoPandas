@@ -1,0 +1,6 @@
+geopandas
+descartes
+matplotlib
+seaborn
+pandas
+xlrd
