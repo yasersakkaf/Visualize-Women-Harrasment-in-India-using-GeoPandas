@@ -6,5 +6,5 @@ An implementation of the GeoPandas library to visualize Women Harrasment in each
 ### Install the requirements using the command:
 `pip intsall -r requirements.txt`
 
-Open Visualizations and just run each cell !!!
+Open Visualization.ipynb and just run each cell !!!
 
